@@ -1,2 +1,3 @@
-print("Modul C")
-return "C"
+def A():
+	print("Modul C")
+	return "C"
